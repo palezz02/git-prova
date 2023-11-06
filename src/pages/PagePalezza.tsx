@@ -22,6 +22,15 @@ const pagePalezza = () => {
         <p>Primo: Spaghetti ai frutti di mare</p>
         <p>Secondo: Fritto misto</p>
         <p>Dolce: Delizia al limone</p>
+
+
+
+        <p>Cantante: Giovanotti</p>
+        <p>Attore: Checco Zalone</p>
+        <p>Calciatore: Ronaldo</p>
+        <p>Esiste un modo per unire tutti questi commit in un unico commit quando si esegue il merge su master? usiamo il git merge --squash master
+          
+        </p>
     </div>
   )
 }
