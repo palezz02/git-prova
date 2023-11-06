@@ -40,6 +40,9 @@ const pagePalezza = () => {
 
         <PalezzaButton></PalezzaButton>
         <p>esiste un modo per "splittare" in 2 commit diverse la modifica di creazione del file CognomeButton.tsx e la modifica di aggiunta del componente CognomeButton al componente pageCognome? Usando git reset HEAD~</p>
+
+
+        <p>Esiste un modo per riavvolgere il tempo in una branch? Usando il git reset + l' ID della commit dove vuoi ritornare </p>
     </div>
   )
 }
