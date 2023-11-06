@@ -14,6 +14,10 @@ const pagePalezza = () => {
           usando il git pull sulla master e poi il merge
         </p>
 
+        <p>Ci ritoviamo con molti commit, come si può fare per unirli in un unico commit? 
+          Uso il  git rebase -i HEAD~4 con il 4 che specifica le commit da unire
+        </p>
+
         <p>Antipasto: Zeppoline</p>
         <p>Primo: Spaghetti ai frutti di mare</p>
         <p>Secondo: Fritto misto</p>
