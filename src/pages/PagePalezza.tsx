@@ -31,6 +31,10 @@ const pagePalezza = () => {
         <p>Esiste un modo per unire tutti questi commit in un unico commit quando si esegue il merge su master? usiamo il git merge --squash master
           
         </p>
+
+
+        <p> ho eseguito un commit ma mi sono accorto che ho sbagliato a scrivere il messaggio, come posso correggerlo? Lo faccio utilizzando git commit --amend
+        </p>
     </div>
   )
 }
