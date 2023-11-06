@@ -2,7 +2,7 @@ import { createBrowserRouter } from "react-router-dom";
 import PageRoot from "../pages/pageRoot";
 import App from "../App";
 import PageError from "../pages/pageError";
-import PageReverberi from "../pages/pageReverberi";
+import PagePalezza from "../pages/PagePalezza";
 
 export const router = createBrowserRouter([
   {
@@ -15,8 +15,8 @@ export const router = createBrowserRouter([
         element: <App />,
       },
       {
-        path: "reverberi",
-        element: <PageReverberi />,
+        path: "palezza",
+        element: <PagePalezza />,
       },
     ],
   },
