@@ -43,9 +43,6 @@ const pagePalezza = () => {
 
 
         <p>Esiste un modo per riavvolgere il tempo in una branch? Usando il git reset + l' ID della commit dove vuoi ritornare </p>
-
-
-        <p>Angular è il framework più bello del mondo</p>
     </div>
   )
 }
