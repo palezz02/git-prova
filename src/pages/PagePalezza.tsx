@@ -1,3 +1,4 @@
+import Logo from "../components/palezza/Logo"
 
 
 const pagePalezza = () => {
@@ -5,6 +6,7 @@ const pagePalezza = () => {
     <div>
         <p>Nome: Gabriele</p>
         <p>Cognome: Palezza</p>
+        <Logo></Logo>
     </div>
   )
 }
