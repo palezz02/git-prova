@@ -1,4 +1,5 @@
 import Logo from "../components/palezza/Logo"
+import PalezzaButton from "../components/palezza/PalezzaButton"
 
 
 const pagePalezza = () => {
@@ -35,6 +36,10 @@ const pagePalezza = () => {
 
         <p> ho eseguito un commit ma mi sono accorto che ho sbagliato a scrivere il messaggio, come posso correggerlo? Lo faccio utilizzando git commit --amend
         </p>
+
+
+        <PalezzaButton></PalezzaButton>
+        <p>esiste un modo per "splittare" in 2 commit diverse la modifica di creazione del file CognomeButton.tsx e la modifica di aggiunta del componente CognomeButton al componente pageCognome? Usando git reset HEAD~</p>
     </div>
   )
 }
